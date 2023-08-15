@@ -1,0 +1,25 @@
+suggestions {
+  display: flex;  
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+.suggestions__title {  
+  color:grey;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.suggestions__left{
+  display: inline;  
+}
+
+.username__info{  
+    display: flex;
+   flex-direction: column;
+}
+
+.relation{
+  color: grey;
+  font-size: 12px;
+}
