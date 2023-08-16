@@ -6,8 +6,7 @@ function Suggestions() {
   return <div className="suggestions">
     <div className="suggestions__title">Suggestion for you</div>
       <div className="suggestions__usernames">
-
-        <div className="suggestions__username">
+        <div className="suggestion__username">
           <div className="username__left">
           <span className="avatar">
           <Avatar>C</Avatar>
@@ -20,7 +19,7 @@ function Suggestions() {
         </div>
       </div>  
       
-      <div className="suggestions__username">
+      <div className="suggestion__username">
           <div className="username__left">
           <span className="avatar">
           <Avatar>T</Avatar>
@@ -33,7 +32,7 @@ function Suggestions() {
         </div>
       </div>  
 
-      <div className="suggestions__username">
+      <div className="suggestion__username">
           <div className="username__left">
           <span className="avatar">
           <Avatar>D</Avatar>
@@ -46,7 +45,7 @@ function Suggestions() {
         </div>
       </div>  
 
-      <div className="suggestions__username">
+      <div className="suggestion__username">
           <div className="username__left">
           <span className="avatar">
           <Avatar>Y</Avatar>
@@ -59,7 +58,7 @@ function Suggestions() {
         </div>
       </div>  
 
-      <div className="suggestions__username">
+      <div className="suggestion__username">
           <div className="username__left">
           <span className="avatar">
           <Avatar>L</Avatar>
